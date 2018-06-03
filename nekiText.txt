@@ -1,2 +1,4 @@
 neki text
 'email' je 'jovic@gmial.com'
+izmenjen
+
