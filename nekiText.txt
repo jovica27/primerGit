@@ -1,2 +1,2 @@
-neki text
-izmenjen
+neki text 
+izmenjen sa gita direktno
